@@ -1,4 +1,4 @@
-# Networks a0: Least Recently Used Cache 
+# Least Recently Used Cache 
 
 ## driver function: main.c
 ## data structure:
